@@ -632,10 +632,10 @@ cover the blue-cyan-magenta side of the spectrum."
     (bg-whitespace . "#f5efef") (fg-whitespace . "#624956")
 
     (bg-diff-heading . "#b7cfe0") (fg-diff-heading . "#041645")
-    (bg-diff-added . "#d4fad4") (fg-diff-added . "#004500")
+    (bg-diff-added . nil) (fg-diff-added . "#004500")
     (bg-diff-added-deuteran . "#daefff") (fg-diff-added-deuteran . "#002044")
     (bg-diff-changed . "#fcefcf") (fg-diff-changed . "#524200")
-    (bg-diff-removed . "#ffe8ef") (fg-diff-removed . "#691616")
+    (bg-diff-removed . nil) (fg-diff-removed . "#691616")
 
     (bg-diff-refine-added . "#94cf94") (fg-diff-refine-added . "#002a00")
     (bg-diff-refine-added-deuteran . "#77c0ef") (fg-diff-refine-added-deuteran . "#000035")
@@ -878,10 +878,10 @@ symbol and the latter as a string.")
     (bg-whitespace . "#101424") (fg-whitespace . "#aa9e9f")
 
     (bg-diff-heading . "#304466") (fg-diff-heading . "#dae7ff")
-    (bg-diff-added . "#0a280a") (fg-diff-added . "#94ba94")
+    (bg-diff-added . nil) (fg-diff-added . "#94ba94")
     (bg-diff-added-deuteran . "#001a3f") (fg-diff-added-deuteran . "#c4cdf2")
     (bg-diff-changed . "#2a2000") (fg-diff-changed . "#b0ba9f")
-    (bg-diff-removed . "#40160f") (fg-diff-removed . "#c6adaa")
+    (bg-diff-removed . nil) (fg-diff-removed . "#c6adaa")
 
     (bg-diff-refine-added . "#005a36") (fg-diff-refine-added . "#e0f6e0")
     (bg-diff-refine-added-deuteran . "#234f8f") (fg-diff-refine-added-deuteran . "#dde4ff")
